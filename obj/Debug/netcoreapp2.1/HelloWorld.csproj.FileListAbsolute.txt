@@ -1,0 +1,11 @@
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/Xander/Desktop/CIDM3312/inClass/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
